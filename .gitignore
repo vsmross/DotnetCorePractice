@@ -5,3 +5,6 @@
 /.vs/DotnetCorePractice/v17
 /.vs
 /DotCorePractice/.vs/DotCorePractice/v17
+/MiddleWare/bin
+/MiddleWare/obj
+/MiddleWare/MiddleWare.csproj.user
